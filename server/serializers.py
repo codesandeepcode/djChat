@@ -1,6 +1,6 @@
 from rest_framework import serializers
 
-from .models import Category, Server
+from .models import Server
 
 
 class ServerSerializer(serializers.ModelSerializer):
