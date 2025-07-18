@@ -132,5 +132,5 @@ SPECTACULAR_SETTINGS = {
     "TITLE": "CHAT Application APIs",
     "DESCRIPTION": "APIs created for Chat application using course.",
     "VERSION": "1.0.0",
-    "SERVE_INCLUDE_SCHEMA": False,
+    "SERVE_INCLUDE_SCHEMA": True,
 }
